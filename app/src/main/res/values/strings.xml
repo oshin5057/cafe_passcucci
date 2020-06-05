@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Caffe Pascucci</string>
+    <string name="about">ABOUT</string>
+    <string name="description">Caffe Pascucci is the best place to hang out and conversation with friends. Visit our Caffe and enjoy hot coffees, cold coffees, snacks and more. Caffe Pascucci to the youth is a “hangout” spot where they meet people, make conversations, and have a whole lot of fun over steaming cups of great coffee. Caffe Pascucci is also best for family to spend time.</string>
+    <string name="contact">CONTACT</string>
+    <string name="email">Email : caffepascucci@xyz.com</string>
+    <string name="phone">Phone No.  : 12345 67890</string>
+    <string name="address">ADDRESS</string>
+    <string name="art_caffe">Caffe Pascucci, Opp. New Market</string>
+    <string name="description_sec">DESCRIPTION</string>
+    <string name="third">We serve verity of high quality of Coffee</string>
+    <string name="cappuccino"> Cappuccino</string>
+    <string name="paspuccio"> Paspuccio</string>
+    <string name="yogurt"> Yogurt Cappuccino</string>
+    <string name="hot_chocolate"> Hot Chocolate</string>
+    <string name="filter_coffee"> Filter Coffee</string>
+    <string name="infusi_tea"> Infusi Tea</string>
+    <string name="hours">HOURS OF OPERATION</string>
+
+
+</resources>
